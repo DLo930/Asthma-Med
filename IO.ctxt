@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=IO
+comment1.params=fileName
+comment1.target=User\ read(java.lang.String)
+comment2.params=tmp\ fileName
+comment2.target=void\ save(User,\ java.lang.String)
+numComments=3

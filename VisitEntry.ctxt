@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=VisitEntry
+comment1.params=FEV1FVC\ s
+comment1.target=VisitEntry(int,\ int)
+comment2.params=
+comment2.target=int\ getFEV1FVC()
+comment3.params=
+comment3.target=int\ getStep()
+numComments=4
